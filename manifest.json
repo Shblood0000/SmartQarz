@@ -1,0 +1,30 @@
+{
+  "name": "SmartQarz",
+  "short_name": "SmartQarz",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "lang": "ckb",
+  "dir": "rtl",
+  "id": "./",
+  "scope": "./",
+  "description": "SmartQarz: a private debt notebook for recording what you owe and what is owed to you.",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
